@@ -17,6 +17,6 @@ const CONFIG = {
     reply: 'Đây chắc chắn là mối nhân duyên trời định, tam sinh tam thế, romeo và juliet happy ending',
     mess: '...',
     messDesc: 'Nếu thấy website chất lượng, liên hệ tôi',
-    btnAccept: 'Truy cập trang fb',
+    btnAccept: 'Truy cập trang fb.',
     messLink: 'https://www.facebook.com/andysupernumberone/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
